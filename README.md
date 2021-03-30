@@ -2,7 +2,7 @@
 Simple way to activate Windows for free ! Feel free to clone.
 
 This little tool save your money and your time, very simple, you just have to launch one of the files inside this repo'.
-Both Py and Batch versions are the same, if you have issues with the Python one just use the batch one (.bat).
+Both Py and Batch scripts are the same, if you have any issues with the Python one just use the batch one (.bat).
 This script actually activate Windows Professionnal.
 
 By the way, if the script is asking admin rights it's totally normal because you need admin rights to activate Windows activation key.
